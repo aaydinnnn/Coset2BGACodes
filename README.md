@@ -94,8 +94,8 @@ active_decoders = ['bposd']
 **Available Decoders:**
 
 * **`bposd`**: Standard Belief Propagation with Ordered Statistics Decoding (defaults to Combination Sweep `osd_cs`, Order 10).
-* **`relay-bp`**: A real time decoder from the [paper](https://arxiv.org/abs/2506.01779).
-* **`beam32_340iters` (Optional):** Decoder from the [paper](https://arxiv.org/abs/2512.07057) . *(Note: This decoder will only be available if the `BeamSearchDecoder` module is present in the repository. The repository for this decoder is available in the [link](https://github.com/ionq-publications/BeamSearchDecoder)).*
+* **`relay-bp`**: A real time decoder by [Tristan Muller et. al.](https://arxiv.org/abs/2506.01779).
+* **`beam32_340iters` (Optional):** Decoder from by [Min Ye et. al.](https://arxiv.org/abs/2512.07057) . *(Note: This decoder will only be available if the `BeamSearchDecoder` module is present in the repository. The repository for this decoder is available in the [link](https://github.com/ionq-publications/BeamSearchDecoder)).*
 
 ### 4. Output and Checkpoints
 
