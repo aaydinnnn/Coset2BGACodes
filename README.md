@@ -42,10 +42,10 @@ pip install -r requirements.txt
 
 ## Execution
 
-The primary execution script is `main_sim.py`. This script automatically extracts the required `.json` files based on your input parameters, validates the code properties (verifying the rank of $H_x$ and $H_z$ over GF(2) to confirm logical qubit dimensions), constructs the space-time `stim` tasks, and runs the parallelized `sinter` simulation.
+The primary execution script is `run_circuit_simulations.py`. This script automatically extracts the required `.json` files based on your input parameters, validates the code properties (verifying the rank of $H_x$ and $H_z$ over GF(2) to confirm logical qubit dimensions), constructs the space-time `stim` tasks, and runs the parallelized `sinter` simulation.
 
 ### 1. Configure the Simulation Inputs
-Open `main_sim.py` in your text editor. Under the `--- INPUT CONFIGURATION ---` section, you must define the target code parameters to match the table from the paper you wish to reproduce.
+Open `run_circuit_simulations.py` in your text editor. Under the `--- INPUT CONFIGURATION ---` section, you must define the target code parameters to match the table from the paper you wish to reproduce.
 
 * **`source_table`**: Selects the naming convention for the `.json` file. 
   * *Options:* `'Table 1'`, `'Table 3_Base'`, `'Table 3_Cover'`, `'Table 5'`.
