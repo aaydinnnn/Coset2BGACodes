@@ -39,6 +39,9 @@ cd Coset2BGACodes
 Then create the virtual envrionment. You can use your preferred environment manager (e.g., `venv`, `conda`, `mamba`, `micromamba`). 
 ```bash
 mamba create -n qecsim -c conda-forge python=3.11 pip rust
+```
+Activate your environment:
+```bash
 mamba activate qecsim
 ```
 Install the required dependencies:
