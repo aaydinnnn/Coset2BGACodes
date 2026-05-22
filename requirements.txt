@@ -6,3 +6,4 @@ bposd==2.1
 stimbposd==0.1.0
 relay-bp==0.2.1
 qLDPC==0.2.1
+beliefmatching==0.2.0
