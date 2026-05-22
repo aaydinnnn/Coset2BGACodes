@@ -36,10 +36,10 @@ First clone the GitHub repo
 git clone https://github.com/aaydinnnn/Coset2BGACodes.git
 cd Coset2BGACodes
 ```
-Then create the virtual envrionment. You can use your preferred environment manager (e.g., `venv`, `conda`, `mamba`). 
+Then create the virtual envrionment. You can use your preferred environment manager (e.g., `venv`, `conda`, `mamba`, `micromamba`). 
 ```bash
-conda create -n qecsim -c conda-forge python=3.11 pip rust
-conda activate qecsim
+mamba create -n qecsim -c conda-forge python=3.11 pip rust
+mamba activate qecsim
 ```
 Install the required dependencies:
 ```bash
