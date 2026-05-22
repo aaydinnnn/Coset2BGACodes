@@ -25,7 +25,7 @@ except ModuleNotFoundError:
 # ==========================================
 
 # 1. Choose table: 'Table 1', 'Table 3_Base', 'Table 3_Cover', or 'Table 5'
-source_table = 'Table 5'
+source_table = 'Table 1'
 
 # 2. Define standard code parameters and GAP identifiers l,m
 n = 48
