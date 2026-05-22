@@ -31,11 +31,17 @@ This script contains all the functions required to generate the memory experimen
 This is the main script used to run the circuit-level simulations.
 
 ## Installation
-
-We highly recommend using a virtual environment to avoid version conflicts. You can use your preferred environment manager (e.g., `venv`, `conda`, `mamba`).
-
-Once your environment is created and activated, install the required dependencies from the root of the repository:
-
+First clone the GitHub repo
+```bash
+git clone https://github.com/aaydinnnn/Coset2BGACodes.git
+cd Coset2BGACodes
+```
+Then create the virtual envrionment. You can use your preferred environment manager (e.g., `venv`, `conda`, `mamba`). 
+```bash
+conda create -n qecsim -c conda-forge python=3.11 pip rust
+conda activate qecsim
+```
+Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
