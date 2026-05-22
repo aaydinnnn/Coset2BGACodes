@@ -315,7 +315,7 @@ def get_readout_block(d: int, basis: str, A_mat_dict: Dict[int, np.ndarray], B_m
     n_half = int(len(q_map)/4)
     
     # =========================================================================
-    # 1. ESTABLISH THE "MATRIX TO QUBIT" ORDER (Same as before)
+    # 1. ESTABLISH THE "MATRIX TO QUBIT" ORDER 
     # =========================================================================
     matrix_col_to_qubit_uid = []
     
@@ -354,7 +354,7 @@ def get_readout_block(d: int, basis: str, A_mat_dict: Dict[int, np.ndarray], B_m
         qubit_to_record_map[qubit_uid] = stim.target_rec(record_offset)
 
     # =========================================================================
-    # 4. BOUNDARY DETECTORS (UPDATED COORDINATES)
+    # 4. BOUNDARY DETECTORS 
     # =========================================================================
     
     # Construct Matrices
