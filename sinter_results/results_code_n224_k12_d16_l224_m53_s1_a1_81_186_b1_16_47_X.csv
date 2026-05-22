@@ -1,0 +1,10 @@
+     shots,    errors,  discards, seconds,decoder,strong_id,json_metadata,custom_counts
+       198,        50,         0, 58741.1,bposd,592cc234ffd89c03abe4c39f9ac712c9e9f008b2333bbaeaf1de8c56fda2e840,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.005,""weight"":6}",
+        74,        56,         0, 36776.3,bposd,03994907863c4b418a682d095a245e12bd726f3a20034428ef04e1865d6ed36d,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.006,""weight"":6}",
+      3261,        51,         0,585059.5,bposd,e817483677930c91f64134b2926304f41079eaedb8f88005308cb51db03c8b31,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.004,""weight"":6}",
+     21560,         6,         0,2358815.0,bposd,373a18b64fd105ecc3595ef9eb4a81aef55f3934c50e7249cb64ef2445e450e3,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.003,""weight"":6}",
+      3729,        13,         0,812052.9,bposd,bf029b3dfc18978d3b18da82752326535eb80f873d836736f786f5e6fac3c539,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.0035,""weight"":6}",
+       662,        50,         0,106142.4,bposd,47cca5067db28acd81a06bfaf9d527a1660f1777aa27962a9d767f07a7a387c7,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.0045,""weight"":6}",
+       105,        51,         0, 23780.3,bposd,ffb4bef4cdd7ea189aa63a43f36ff8bbdf9d8fc59f1c7a21a47e44a9ed8f72fa,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.0055,""weight"":6}",
+        54,        50,         0, 20206.2,bposd,90f832b623ab945e546410995096c6453ac6827f263090d7e18b652a6537aae0,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.0065,""weight"":6}",
+        55,        53,         0, 26654.9,bposd,161819aa705eedd7b15f21f5bc612cf057eb40ebf4f27d19b040f55df714d267,"{""Code Name"":""[224,12,16]_(224,53,1)"",""NumberofCycle"":16,""basis"":""X"",""p"":0.007,""weight"":6}",

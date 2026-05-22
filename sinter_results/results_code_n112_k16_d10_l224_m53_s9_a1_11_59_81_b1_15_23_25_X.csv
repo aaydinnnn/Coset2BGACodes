@@ -1,0 +1,10 @@
+     shots,    errors,  discards, seconds,decoder,strong_id,json_metadata,custom_counts
+       108,        52,         0, 19123.0,bposd,a1040cd333d67caed67cbe5d156a7afd1cf19c9f97cb7b4d0b93708223106237,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.004,""weight"":8}",
+       208,        61,         0, 13365.1,bposd,7630d2feddd152d375c6b7218ecf8aed6e631f36b4e6418d4f9d2c09b5f8566d,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.0035,""weight"":8}",
+       321,        52,         0, 13675.3,bposd,7259b78d8f0fd16227cafcdb64a700dd6693f6f758f7f1abeae2668579d18327,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.003,""weight"":8}",
+      1482,        55,         0, 25060.8,bposd,eea342b491f852f6983dd10a1cb0556c3824941b64e013277c73b26cdc9feb46,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.0025,""weight"":8}",
+      5519,        50,         0, 43034.1,bposd,32eeae4ad23d62f1d5960a073f53df80309dc94ac4725aa0923b507f36da9b96,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.002,""weight"":8}",
+    884171,        50,         0,2159494.4,bposd,969d450f7cfd157255b3e321aa57e0562fbf3c8520da5eef6ed1bd438d1158f0,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.001,""weight"":8}",
+     61926,        50,         0,284821.1,bposd,76589cae072790ec5395254920e28f506a491fa59a7387a12b5208961de17fb7,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.0015,""weight"":8}",
+   1355417,        25,         0,7554180.5,bposd,e66cf80108f54af65bacba62a9cfc7ebfa7db1a08762e4595aad27fc91405c5c,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.0008,""weight"":8}",
+        75,        56,         0,  8508.6,bposd,276fc9d6248ca248a24ead0df5833a5eeff0dc3ade4e4391b93c97defaf79df3,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""X"",""p"":0.0045,""weight"":8}",

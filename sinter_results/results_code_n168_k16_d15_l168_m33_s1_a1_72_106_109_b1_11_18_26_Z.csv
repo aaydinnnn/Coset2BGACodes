@@ -1,0 +1,10 @@
+     shots,    errors,  discards, seconds,decoder,strong_id,json_metadata,custom_counts
+        86,        57,         0,104490.4,bposd,79cc6f2dc22670d03174fcc518e1baa59d8f9e0d2ab0274d6e87213f34097466,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.004,""weight"":8}",
+       188,        56,         0, 72622.4,bposd,1be0cf13d6ceb6529c1d638621f2c92efc3c93a317d87e4a32403f946604fd1a,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.0035,""weight"":8}",
+       503,        50,         0,131587.4,bposd,fd8259c69bf248bdedeb42a2ed2e0383b6cdd5b8134a08d5da5207e8f5050a45,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.003,""weight"":8}",
+      3105,        51,         0,381721.7,bposd,aa8d3531be8bbdc541eb7c5be3ec47b53d3895bbd77e1448f258589f45cdb6ac,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.0025,""weight"":8}",
+     13809,        20,         0,812095.6,bposd,1b0e447f3ca03bdd5a1817cc03479687cd767e28f9c1e2b9f042bff11ef5d07b,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.002,""weight"":8}",
+    117374,        15,         0,3953704.9,bposd,d114cf25be381be3909ae96065eb2eb0b57a10e9e7efbd6dc0930d25468194a2,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.0015,""weight"":8}",
+    244265,         4,         0,5981797.1,bposd,038ba7cde14117367956eefbc22c873f54dd498ef922260bfbd4208613f32a64,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.001,""weight"":8}",
+       320,         0,         0,  1503.8,bposd,17b91c672817ff12881c8992430d0693e0b9441e545cd84365de07cf673b707a,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.0008,""weight"":8}",
+        56,        52,         0, 53652.1,bposd,c0aec1c49729bd5c180ce4077fb066e49745d93371a9c6a3276304ae457ade25,"{""Code Name"":""[168,16,15]_(168,33,1)"",""NumberofCycle"":15,""basis"":""Z"",""p"":0.0045,""weight"":8}",

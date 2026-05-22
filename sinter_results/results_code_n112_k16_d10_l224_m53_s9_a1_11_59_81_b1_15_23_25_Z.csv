@@ -1,0 +1,11 @@
+     shots,    errors,  discards, seconds,decoder,strong_id,json_metadata,custom_counts
+   1145839,        50,         0,2512390.9,bposd,3059f71aa44fe299564a08f565ba5832cbef60ef978b98dfc47b20d7d9e5836c,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.001,""weight"":8}",
+     55690,        50,         0,196008.4,bposd,9c22634b90493fea412000e6425cccc164c437859a3f6e0770f2a0abf51e0116,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.0015,""weight"":8}",
+      5904,        54,         0, 50532.0,bposd,a13cfe7fb900161b6b1c91c84f12ab6024ad86cce4f25adda242f0598c89930a,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.002,""weight"":8}",
+      1179,        51,         0, 15169.4,bposd,6aedf3e68b3c3bb4b5a3ec1df43652e01e1d71c898de1a8395de59727740a66d,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.0025,""weight"":8}",
+        97,        52,         0,  9482.2,bposd,86d9ea43c6e5c5a92fd3e242c90549f9dd4d85cf2de9b47afc68251c960a33c4,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.004,""weight"":8}",
+       163,        52,         0, 10554.7,bposd,fa561112710585ec76691d8d04958eebe0a11e71d8b6e297c7eeb9b926e0cddd,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.0035,""weight"":8}",
+        63,        52,         0, 11909.9,bposd,d60b12bd016ec9d7f2be44b0763e8eaa18cbee211614610274ca8de31446092a,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.0045,""weight"":8}",
+        61,        53,         0, 11059.8,bposd,fd02385be250e04dbf5d24ba74f09a4ff3aaca0ae9957c0e73465cc594308950,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.005,""weight"":8}",
+       390,        50,         0, 12193.7,bposd,5bcc0b7681cc2c476f7b9dd7c9a59be3559030407a44a3405e1afdcefa777dca,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.003,""weight"":8}",
+   1632206,        30,         0,2058584.6,bposd,8dfad5c5f00483846d4283c3dd37e26fff59a408e7abf9599e5c81b963a210a9,"{""Code Name"":""[112,16,10]_(224,53,9)"",""NumberofCycle"":10,""basis"":""Z"",""p"":0.0008,""weight"":8}",
