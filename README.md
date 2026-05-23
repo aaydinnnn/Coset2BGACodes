@@ -107,7 +107,7 @@ active_decoders = ['bposd']
 
 If you are interested in exploring codes beyond those published in the paper, this repository includes two scripts for this purpose. Please note that running these scripts requires [SageMath](https://doc.sagemath.org/html/en/installation/index.html) and the GAP package [QDistRnd](https://docs.gap-system.org/pkg/qdistrnd/doc/chap0_mj.html).
 
-### Finding Base Codes
+### Finding Coset 2BGA Codes
 Run `find_code_parameters.py` to search for new base QLDPC codes.
 
 * You can define custom GAP group parameters (`l`, `m`, `s`) and algebra subsets (`a`, `b`).
