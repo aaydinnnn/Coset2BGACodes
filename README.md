@@ -56,14 +56,14 @@ The primary execution script is `run_circuit_simulations.py`. This script automa
 Open `run_circuit_simulations.py` in your text editor. Under the `--- INPUT CONFIGURATION ---` section, you must define the target code parameters to match the table from the paper you wish to reproduce.
 
 * **`source_table`**: Selects the naming convention for the `.json` file. 
-  * *Options:* `'Table 1'`, `'Table 3_Base'`, `'Table 3_Cover'`, `'Table 5'`.
+  * *Options:* `'Table 2'`, `'Table 4_Base'`, `'Table 4_Cover'`, `'Table 6'`.
 * **`n, k, d`**: Standard quantum code parameters.
 * **`l, m, s`**: The GAP mathematical identifiers used to construct the code block.
 * **`a, b`**: The group algebra elements (provided as lists, e.g., `a = [1, 34, 48]`).
 
-*Example configuration for a Table 1 code:*
+*Example configuration for a Table 2 code:*
 ```python
-source_table = 'Table 1'
+source_table = 'Table 2'
 n = 48
 k = 8
 d = 6
