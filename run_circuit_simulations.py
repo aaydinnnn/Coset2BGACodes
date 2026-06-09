@@ -34,7 +34,7 @@ d = 6
 l = 384
 m = 512
 
-# Used for Table 1, Table 3_Cover, and Table 5
+# Used for Table 2, Table 4_Cover, and Table 6
 s = 53  
 
 # 3. Define a and b
