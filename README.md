@@ -1,12 +1,12 @@
 ## Repository Structure
-This repository contains the quantum error-correcting codes constructed in the paper .., as well as the simulator used to run circuit-level memory experiments for these codes.
+This repository contains the quantum error-correcting codes constructed in the paper as well as the simulator used to run circuit-level memory experiments for these codes.
 
 #### `code_dict/`
 This folder contains `.json` files that include the metadata and building blocks for all the codes constructed in the paper. The files are named dynamically based on the specific tables they reference:
 
-* **Table 1 and Table 5 Codes:** `code_n{n}_k{k}_d{d}_l{l}_m{m}_s{s}_a{a1}_{a2}..._b{b1}_{b2}....json`
-* **Table 3 Base Codes:** `base_n{n}_k{k}_d{d}_l{l}_m{m}_a{a1}_{a2}..._b{b1}_{b2}....json`
-* **Table 3 Cover Codes:** `cover_n{n}_k{k}_d{d}_l{l}_m{m}_s{s}_a{a1}_{a2}..._b{b1}_{b2}....json`
+* **Table 2 and Table 6 Codes:** `code_n{n}_k{k}_d{d}_l{l}_m{m}_s{s}_a{a1}_{a2}..._b{b1}_{b2}....json`
+* **Table 4 Base Codes:** `base_n{n}_k{k}_d{d}_l{l}_m{m}_a{a1}_{a2}..._b{b1}_{b2}....json`
+* **Table 4 Cover Codes:** `cover_n{n}_k{k}_d{d}_l{l}_m{m}_s{s}_a{a1}_{a2}..._b{b1}_{b2}....json`
 
 #### Parameter Definitions:
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Execution: Circuit Simulations
 
-The primary execution script is `run_circuit_simulations.py`. This script automatically extracts the required `.json` files based on your input parameters, validates the code properties (verifying the rank of $H_x$ and $H_z$ over GF(2) to confirm logical qubit dimensions), constructs the space-time `stim` tasks, and runs the parallelized `sinter` simulation.
+The primary execution script is `run_circuit_simulations.py`. This script automatically extracts the required `.json` files based on the input parameters, validates the code properties (verifying the rank of $H_x$ and $H_z$ over GF(2) to confirm logical qubit dimensions), constructs the space-time `stim` tasks, and runs the parallelized `sinter` simulation.
 
 ### 1. Configure the Simulation Inputs
 Open `run_circuit_simulations.py` in your text editor. Under the `--- INPUT CONFIGURATION ---` section, you must define the target code parameters to match the table from the paper you wish to reproduce.
@@ -108,7 +108,7 @@ active_decoders = ['bposd']
 If you are interested in exploring codes beyond those published in the paper, this repository includes two scripts for this purpose. Please note that running these scripts requires [SageMath](https://doc.sagemath.org/html/en/installation/index.html) and the GAP package [QDistRnd](https://docs.gap-system.org/pkg/qdistrnd/doc/chap0_mj.html).
 
 ### Finding Coset 2BGA Codes
-Run `find_code_parameters.py` to search for new base QLDPC codes.
+You can use the script `find_code_parameters.py` to search for new coset 2BGA codes.
 
 * You can define custom GAP group parameters (`l`, `m`, `s`) and algebra subsets (`a`, `b`).
 * The script utilizes GAP to generate the group action matrices and calls QDistRnd to estimate the distance bounds.
