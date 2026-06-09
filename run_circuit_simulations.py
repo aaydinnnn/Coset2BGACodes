@@ -24,8 +24,8 @@ except ModuleNotFoundError:
 # --- INPUT CONFIGURATION ---
 # ==========================================
 
-# 1. Choose table: 'Table 1', 'Table 3_Base', 'Table 3_Cover', or 'Table 5'
-source_table = 'Table 1'
+# 1. Choose table: 'Table 2', 'Table 4_Base', 'Table 4_Cover', or 'Table 6'
+source_table = 'Table 2'
 
 # 2. Define standard code parameters and GAP identifiers l,m
 n = 48
@@ -45,15 +45,15 @@ b = [1, 6, 12]
 a_str = "a" + "_".join(map(str, a))
 b_str = "b" + "_".join(map(str, b))
 
-if source_table in ['Table 1', 'Table 5']:
+if source_table in ['Table 2', 'Table 6']:
     prefix = 'code'
     input_filename = f"{prefix}_n{n}_k{k}_d{d}_l{l}_m{m}_s{s}_{a_str}_{b_str}.json"
 
-elif source_table == 'Table 3_Base':
+elif source_table == 'Table 4_Base':
     prefix = 'base'
     input_filename = f"{prefix}_n{n}_k{k}_d{d}_l{l}_m{m}_{a_str}_{b_str}.json"
 
-elif source_table == 'Table 3_Cover':
+elif source_table == 'Table 4_Cover':
     prefix = 'cover'
     input_filename = f"{prefix}_n{n}_k{k}_d{d}_l{l}_m{m}_s{s}_{a_str}_{b_str}.json"
 
